@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section4/Casting/Casting/bin/Debug/Casting.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section4/Casting/Casting/bin/Debug/Casting.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section4/Casting/Casting/obj/x86/Debug/Casting.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section4/Casting/Casting/obj/x86/Debug/Casting.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section4/Casting/Casting/obj/x86/Debug/Casting.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section4/Casting/Casting/obj/x86/Debug/Casting.pdb
