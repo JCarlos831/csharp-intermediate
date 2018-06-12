@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Indexers/Indexers/obj/x86/Debug/Indexers.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Indexers/Indexers/obj/x86/Debug/Indexers.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Indexers/Indexers/bin/Debug/Indexers.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Indexers/Indexers/bin/Debug/Indexers.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Indexers/Indexers/obj/x86/Debug/Indexers.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Indexers/Indexers/obj/x86/Debug/Indexers.pdb

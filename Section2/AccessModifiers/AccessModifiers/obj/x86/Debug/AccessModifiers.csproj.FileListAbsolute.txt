@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/AccessModifiers/AccessModifiers/obj/x86/Debug/AccessModifiers.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/AccessModifiers/AccessModifiers/obj/x86/Debug/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/AccessModifiers/AccessModifiers/bin/Debug/AccessModifiers.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/AccessModifiers/AccessModifiers/bin/Debug/AccessModifiers.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/AccessModifiers/AccessModifiers/obj/x86/Debug/AccessModifiers.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/AccessModifiers/AccessModifiers/obj/x86/Debug/AccessModifiers.pdb
