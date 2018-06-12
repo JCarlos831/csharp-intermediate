@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Inheritance/Inheritance/bin/Debug/Inheritance.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Inheritance/Inheritance/bin/Debug/Inheritance.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Inheritance/Inheritance/obj/x86/Debug/Inheritance.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Inheritance/Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Inheritance/Inheritance/obj/x86/Debug/Inheritance.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Inheritance/Inheritance/obj/x86/Debug/Inheritance.pdb

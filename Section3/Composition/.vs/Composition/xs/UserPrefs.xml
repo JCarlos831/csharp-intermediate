@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{8AD30D9F-2478-4D0E-8C75-90C95C704DFB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Composition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Composition/Logger.cs">
+    <Files>
+      <File FileName="Composition/Program.cs" Line="16" Column="33" />
+      <File FileName="Composition/Logger.cs" Line="12" Column="1" />
+      <File FileName="Composition/DbMigrator.cs" Line="15" Column="63" />
+      <File FileName="Composition/Installer.cs" Line="15" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>customer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

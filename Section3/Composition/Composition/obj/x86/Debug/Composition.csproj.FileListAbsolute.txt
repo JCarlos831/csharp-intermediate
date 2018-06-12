@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Composition/Composition/obj/x86/Debug/Composition.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Composition/Composition/obj/x86/Debug/Composition.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Composition/Composition/bin/Debug/Composition.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Composition/Composition/bin/Debug/Composition.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Composition/Composition/obj/x86/Debug/Composition.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section3/Composition/Composition/obj/x86/Debug/Composition.pdb
