@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{99DB1E9D-8C6E-4186-8ECC-72099C7F236E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{D1304D4A-3E9C-40BD-AFAA-62B9A69A94B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DB1E9D-8C6E-4186-8ECC-72099C7F236E}.Debug|x86.ActiveCfg = Debug|x86
+		{99DB1E9D-8C6E-4186-8ECC-72099C7F236E}.Debug|x86.Build.0 = Debug|x86
+		{99DB1E9D-8C6E-4186-8ECC-72099C7F236E}.Release|x86.ActiveCfg = Release|x86
+		{99DB1E9D-8C6E-4186-8ECC-72099C7F236E}.Release|x86.Build.0 = Release|x86
+		{D1304D4A-3E9C-40BD-AFAA-62B9A69A94B5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D1304D4A-3E9C-40BD-AFAA-62B9A69A94B5}.Debug|x86.Build.0 = Debug|Any CPU
+		{D1304D4A-3E9C-40BD-AFAA-62B9A69A94B5}.Release|x86.ActiveCfg = Release|Any CPU
+		{D1304D4A-3E9C-40BD-AFAA-62B9A69A94B5}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{DDBB55CE-E59E-4BFC-966C-A40040F06CD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Casting/Program.cs">
+    <Files>
+      <File FileName="Casting/Program.cs" Line="17" Column="1" />
+      <File FileName="Casting/Shape.cs" Line="34" Column="6" />
+      <File FileName="Casting/Text.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Casting" expanded="True">
+            <Node name="Casting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Casting" expanded="True" selected="True">
+            <Node name="Casting" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>customer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Casting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
