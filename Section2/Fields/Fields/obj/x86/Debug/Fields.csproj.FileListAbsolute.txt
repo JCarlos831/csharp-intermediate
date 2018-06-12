@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Fields/Fields/bin/Debug/Fields.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Fields/Fields/bin/Debug/Fields.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Fields/Fields/obj/x86/Debug/Fields.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Fields/Fields/obj/x86/Debug/Fields.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Fields/Fields/obj/x86/Debug/Fields.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section2/Fields/Fields/obj/x86/Debug/Fields.pdb

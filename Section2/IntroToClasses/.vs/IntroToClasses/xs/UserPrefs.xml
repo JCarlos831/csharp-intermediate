@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{ADB8380F-060F-427E-BBF5-0ACEB3AE8208}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntroToClasses/Program.cs">
+    <Files>
+      <File FileName="IntroToClasses/Program.cs" Line="32" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>min</Value>
+          <Value>list[0]</Value>
+          <Value>list[i]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.IntroToClasses PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

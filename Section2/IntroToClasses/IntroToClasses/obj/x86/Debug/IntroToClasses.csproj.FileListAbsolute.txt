@@ -1,0 +1,6 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/IntroToClasses/IntroToClasses/bin/Debug/IntroToClasses.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/IntroToClasses/IntroToClasses/bin/Debug/IntroToClasses.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/IntroToClasses/IntroToClasses/obj/x86/Debug/IntroToClasses.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/IntroToClasses/IntroToClasses/obj/x86/Debug/IntroToClasses.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/IntroToClasses/IntroToClasses/obj/x86/Debug/IntroToClasses.exe
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/IntroToClasses/IntroToClasses/obj/x86/Debug/IntroToClasses.pdb
