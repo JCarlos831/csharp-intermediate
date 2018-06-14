@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{54277CF8-6BD7-4CC9-BF8E-E89DB73B5213}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverriding/Shape.cs">
+    <Files>
+      <File FileName="MethodOverriding/Program.cs" Line="12" Column="41" />
+      <File FileName="MethodOverriding/Shape.cs" Line="25" Column="10" />
+      <File FileName="MethodOverriding/Canvas.cs" Line="12" Column="30" />
+      <File FileName="MethodOverriding/Position.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MethodOverriding" expanded="True">
+            <Node name="MethodOverriding" expanded="True">
+              <Node name="Shape.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="MethodOverriding" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>customer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MethodOverriding PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

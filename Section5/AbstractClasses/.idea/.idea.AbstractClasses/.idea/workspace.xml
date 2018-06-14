@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c66eb657-6e55-4152-9473-7c43218eac54" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/AbstractClasses/Circle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClasses/Shape.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/.vs/MethodOverriding/xs/UserPrefs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/.vs/MethodOverriding/xs/sqlite3/db.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/.vs/MethodOverriding/xs/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/.vs/MethodOverriding/xs/sqlite3/storage.ide-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/.vs/MethodOverriding/xs/sqlite3/storage.ide-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/Canvas.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/MethodOverriding.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/Position.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/Shape.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverriding/MethodOverriding/obj/x86/Debug/MethodOverriding.csprojResolveAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AbstractClasses/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1528991462049" expanded="true" signature="25:322" ph="{...}" />
+                <marker date="1528991462049" expanded="true" signature="47:320" ph="{...}" />
+                <marker date="1528991462049" expanded="true" signature="100:314" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AbstractClasses/Rectangle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <folding>
+                <marker date="1528991151151" expanded="true" signature="40:198" ph="{...}" />
+                <marker date="1528991151151" expanded="true" signature="77:196" ph="{...}" />
+                <marker date="1528991151151" expanded="true" signature="119:190" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shape.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AbstractClasses/Shape.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <marker date="1528990433345" expanded="true" signature="39:497" ph="{...}" />
+                <marker date="1528990433345" expanded="true" signature="73:495" ph="{...}" />
+                <marker date="1528990433345" expanded="true" signature="104:158" ph="{...}" />
+                <marker date="1528990433345" expanded="true" signature="185:240" ph="{...}" />
+                <marker date="1528990433345" expanded="true" signature="306:387" ph="{...}" />
+                <marker date="1528990433345" expanded="true" signature="417:489" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AbstractClasses/Circle.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1528989649943" expanded="true" signature="39:191" ph="{...}" />
+                <marker date="1528989649943" expanded="true" signature="73:189" ph="{...}" />
+                <marker date="1528989649943" expanded="true" signature="115:183" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AbstractClasses/Shape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AbstractClasses/Rectangle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AbstractClasses/Circle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../MethodOverriding/MethodOverriding/Properties/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AbstractClasses/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AbstractClasses/Shape.cs" />
+        <option value="$PROJECT_DIR$/AbstractClasses/Program.cs" />
+        <option value="$PROJECT_DIR$/AbstractClasses/Rectangle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="42" />
+    <option name="width" value="1400" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AbstractClasses (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="AbstractClasses (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="AbstractClasses" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AbstractClasses/bin/Debug/AbstractClasses.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AbstractClasses/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AbstractClasses/AbstractClasses.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66eb657-6e55-4152-9473-7c43218eac54" name="Default" comment="" />
+      <created>1528989766115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528989766115</updated>
+      <workItem from="1528989768509" duration="172000" />
+      <workItem from="1528990159358" duration="1612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1784000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="827" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289855" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3109589" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892008" weight="0.24606581" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5010799" side_tool="true" weight="0.2532189" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528991462049" expanded="true" signature="25:322" ph="{...}" />
+            <marker date="1528991462049" expanded="true" signature="47:320" ph="{...}" />
+            <marker date="1528991462049" expanded="true" signature="100:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Shape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528990433345" expanded="true" signature="39:497" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="73:495" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="104:158" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="185:240" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="306:387" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="417:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Circle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1528989649943" expanded="true" signature="39:191" ph="{...}" />
+            <marker date="1528989649943" expanded="true" signature="73:189" ph="{...}" />
+            <marker date="1528989649943" expanded="true" signature="115:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Circle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1528989649943" expanded="true" signature="39:191" ph="{...}" />
+            <marker date="1528989649943" expanded="true" signature="73:189" ph="{...}" />
+            <marker date="1528989649943" expanded="true" signature="115:183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Shape.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <marker date="1528990433345" expanded="true" signature="39:497" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="73:495" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="104:158" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="185:240" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="306:387" ph="{...}" />
+            <marker date="1528990433345" expanded="true" signature="417:489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1528991462049" expanded="true" signature="25:322" ph="{...}" />
+            <marker date="1528991462049" expanded="true" signature="47:320" ph="{...}" />
+            <marker date="1528991462049" expanded="true" signature="100:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AbstractClasses/Rectangle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <marker date="1528991151151" expanded="true" signature="40:198" ph="{...}" />
+            <marker date="1528991151151" expanded="true" signature="77:196" ph="{...}" />
+            <marker date="1528991151151" expanded="true" signature="119:190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
