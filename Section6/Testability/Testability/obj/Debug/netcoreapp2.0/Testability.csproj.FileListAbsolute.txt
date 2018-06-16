@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/obj/Debug/netcoreapp2.0/Testability.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/obj/Debug/netcoreapp2.0/Testability.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/obj/Debug/netcoreapp2.0/Testability.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/obj/Debug/netcoreapp2.0/Testability.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/bin/Debug/netcoreapp2.0/Testability.deps.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/bin/Debug/netcoreapp2.0/Testability.runtimeconfig.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/bin/Debug/netcoreapp2.0/Testability.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/bin/Debug/netcoreapp2.0/Testability.dll
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/bin/Debug/netcoreapp2.0/Testability.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/obj/Debug/netcoreapp2.0/Testability.dll
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Testability/Testability/obj/Debug/netcoreapp2.0/Testability.pdb

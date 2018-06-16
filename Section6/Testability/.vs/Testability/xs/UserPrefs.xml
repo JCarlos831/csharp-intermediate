@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2E84343A-6081-43EB-AE64-A43B4DA12704}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testability/OrderProcessor.cs">
+    <Files>
+      <File FileName="Testability/Program.cs" Line="11" Column="38" />
+      <File FileName="Testability/OrderProcessor.cs" Line="26" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Testability PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
