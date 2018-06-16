@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability", "Testability\Testability.csproj", "{2E84343A-6081-43EB-AE64-A43B4DA12704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability.UnitTests", "Testability.UnitTests\Testability.UnitTests.csproj", "{69959599-2DC2-4169-931C-3271149238A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E84343A-6081-43EB-AE64-A43B4DA12704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E84343A-6081-43EB-AE64-A43B4DA12704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E84343A-6081-43EB-AE64-A43B4DA12704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E84343A-6081-43EB-AE64-A43B4DA12704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69959599-2DC2-4169-931C-3271149238A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69959599-2DC2-4169-931C-3271149238A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69959599-2DC2-4169-931C-3271149238A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69959599-2DC2-4169-931C-3271149238A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

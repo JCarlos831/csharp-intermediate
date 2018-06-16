@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.3.1/build/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Testability.-1134100207.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Testability" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Testability.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Order.cs" t="Include" />
+        <e p="OrderProcessor.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Shipment.cs" t="Include" />
+        <e p="ShippingCalculator.cs" t="Include" />
+        <e p="Testability.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Testability.sln" t="IncludeFlat" />
+      <e p="Testability.UnitTests" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Testability.UnitTests.AssemblyInfo.cs" t="Include" />
+              <e p="Testability.UnitTests.Program.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Testability.UnitTests.csproj" t="IncludeRecursive" />
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
