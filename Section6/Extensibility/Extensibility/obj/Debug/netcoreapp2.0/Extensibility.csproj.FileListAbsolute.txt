@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.deps.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.runtimeconfig.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.dll
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/bin/Debug/netcoreapp2.0/Extensibility.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.dll
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Extensibility/Extensibility/obj/Debug/netcoreapp2.0/Extensibility.pdb
