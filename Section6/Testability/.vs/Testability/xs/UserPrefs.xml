@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{2E84343A-6081-43EB-AE64-A43B4DA12704}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Testability/OrderProcessor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testability/Program.cs">
     <Files>
       <File FileName="Testability/Program.cs" Line="11" Column="38" />
       <File FileName="Testability/OrderProcessor.cs" Line="26" Column="1" />
