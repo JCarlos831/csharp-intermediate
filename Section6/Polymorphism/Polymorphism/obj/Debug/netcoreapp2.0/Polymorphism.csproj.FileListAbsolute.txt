@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.0/Polymorphism.deps.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.0/Polymorphism.runtimeconfig.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.0/Polymorphism.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.0/Polymorphism.dll
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/bin/Debug/netcoreapp2.0/Polymorphism.pdb
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.dll
+/Users/JuanCMontoya/Projects/Udemy/csharp/c_sharp_intermediate/csharp-intermediate/Section6/Polymorphism/Polymorphism/obj/Debug/netcoreapp2.0/Polymorphism.pdb
